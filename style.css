@@ -1,0 +1,16 @@
+body{text-align:center;}
+#score{
+
+}
+#action{
+
+}
+#active-area{
+	background-color:red;
+	height:300px;
+	margin:0 auto;
+	width:300px;
+}
+table { height:100%; width:100%; }
+tr {vertical-align:middle;}
+td {text-align:center;}
